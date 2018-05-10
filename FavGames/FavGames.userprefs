@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{9FDFC433-0ADD-40C0-B098-3B1E21A19614}|Default">
+  <MonoDevelop.Ide.ItemProperties.FavGames PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FavGames/Program.cs">
+    <Files>
+      <File FileName="FavGames/Program.cs" Line="14" Column="42" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

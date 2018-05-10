@@ -1,0 +1,5 @@
+/home/lux/Projects/AverageNumbers/AverageNumbers/bin/Debug/AverageNumbers.exe
+/home/lux/Projects/AverageNumbers/AverageNumbers/bin/Debug/AverageNumbers.pdb
+/home/lux/Projects/AverageNumbers/AverageNumbers/obj/x86/Debug/AverageNumbers.csproj.CoreCompileInputs.cache
+/home/lux/Projects/AverageNumbers/AverageNumbers/obj/x86/Debug/AverageNumbers.exe
+/home/lux/Projects/AverageNumbers/AverageNumbers/obj/x86/Debug/AverageNumbers.pdb

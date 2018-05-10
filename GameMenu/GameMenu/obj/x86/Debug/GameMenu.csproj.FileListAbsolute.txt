@@ -1,0 +1,5 @@
+/home/lux/Projects/GameMenu/GameMenu/bin/Debug/GameMenu.exe
+/home/lux/Projects/GameMenu/GameMenu/bin/Debug/GameMenu.pdb
+/home/lux/Projects/GameMenu/GameMenu/obj/x86/Debug/GameMenu.csproj.CoreCompileInputs.cache
+/home/lux/Projects/GameMenu/GameMenu/obj/x86/Debug/GameMenu.exe
+/home/lux/Projects/GameMenu/GameMenu/obj/x86/Debug/GameMenu.pdb

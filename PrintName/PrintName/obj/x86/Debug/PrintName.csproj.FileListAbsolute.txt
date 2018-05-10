@@ -1,0 +1,5 @@
+/home/lux/Projects/PrintName/PrintName/bin/Debug/PrintName.exe
+/home/lux/Projects/PrintName/PrintName/bin/Debug/PrintName.pdb
+/home/lux/Projects/PrintName/PrintName/obj/x86/Debug/PrintName.csproj.CoreCompileInputs.cache
+/home/lux/Projects/PrintName/PrintName/obj/x86/Debug/PrintName.exe
+/home/lux/Projects/PrintName/PrintName/obj/x86/Debug/PrintName.pdb

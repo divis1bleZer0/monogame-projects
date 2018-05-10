@@ -1,0 +1,5 @@
+/home/lux/Projects/BirthdayReminder/BirthdayReminder/bin/Debug/BirthdayReminder.exe
+/home/lux/Projects/BirthdayReminder/BirthdayReminder/bin/Debug/BirthdayReminder.pdb
+/home/lux/Projects/BirthdayReminder/BirthdayReminder/obj/x86/Debug/BirthdayReminder.csproj.CoreCompileInputs.cache
+/home/lux/Projects/BirthdayReminder/BirthdayReminder/obj/x86/Debug/BirthdayReminder.exe
+/home/lux/Projects/BirthdayReminder/BirthdayReminder/obj/x86/Debug/BirthdayReminder.pdb

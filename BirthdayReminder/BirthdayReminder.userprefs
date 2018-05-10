@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{0FB22053-F881-459F-AC2B-BD363E4BA75D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BirthdayReminder/Program.cs">
+    <Files>
+      <File FileName="BirthdayReminder/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

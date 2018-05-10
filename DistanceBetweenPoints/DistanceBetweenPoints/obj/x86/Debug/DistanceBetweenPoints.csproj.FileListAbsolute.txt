@@ -1,0 +1,5 @@
+/home/lux/Projects/DistanceBetweenPoints/DistanceBetweenPoints/bin/Debug/DistanceBetweenPoints.exe
+/home/lux/Projects/DistanceBetweenPoints/DistanceBetweenPoints/bin/Debug/DistanceBetweenPoints.pdb
+/home/lux/Projects/DistanceBetweenPoints/DistanceBetweenPoints/obj/x86/Debug/DistanceBetweenPoints.csproj.CoreCompileInputs.cache
+/home/lux/Projects/DistanceBetweenPoints/DistanceBetweenPoints/obj/x86/Debug/DistanceBetweenPoints.exe
+/home/lux/Projects/DistanceBetweenPoints/DistanceBetweenPoints/obj/x86/Debug/DistanceBetweenPoints.pdb

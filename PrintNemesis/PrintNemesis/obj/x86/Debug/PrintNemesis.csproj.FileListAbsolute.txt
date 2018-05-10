@@ -1,0 +1,5 @@
+/home/lux/Projects/PrintNemesis/PrintNemesis/bin/Debug/PrintNemesis.exe
+/home/lux/Projects/PrintNemesis/PrintNemesis/bin/Debug/PrintNemesis.pdb
+/home/lux/Projects/PrintNemesis/PrintNemesis/obj/x86/Debug/PrintNemesis.csproj.CoreCompileInputs.cache
+/home/lux/Projects/PrintNemesis/PrintNemesis/obj/x86/Debug/PrintNemesis.exe
+/home/lux/Projects/PrintNemesis/PrintNemesis/obj/x86/Debug/PrintNemesis.pdb

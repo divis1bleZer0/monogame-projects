@@ -1,0 +1,6 @@
+/home/lux/Projects/FavGames/FavGames/bin/Debug/FavGames.exe
+/home/lux/Projects/FavGames/FavGames/bin/Debug/FavGames.pdb
+/home/lux/Projects/FavGames/FavGames/obj/x86/Debug/FavGames.csproj.CoreCompileInputs.cache
+/home/lux/Projects/FavGames/FavGames/obj/x86/Debug/FavGames.exe
+/home/lux/Projects/FavGames/FavGames/obj/x86/Debug/FavGames.pdb
+/home/lux/Projects/FavGames/FavGames/obj/x86/Debug/FavGames.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+/home/lux/Projects/PrintAge/PrintAge/bin/Debug/PrintAge.exe
+/home/lux/Projects/PrintAge/PrintAge/bin/Debug/PrintAge.pdb
+/home/lux/Projects/PrintAge/PrintAge/obj/x86/Debug/PrintAge.csproj.CoreCompileInputs.cache
+/home/lux/Projects/PrintAge/PrintAge/obj/x86/Debug/PrintAge.exe
+/home/lux/Projects/PrintAge/PrintAge/obj/x86/Debug/PrintAge.pdb

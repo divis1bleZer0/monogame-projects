@@ -1,0 +1,5 @@
+/home/lux/Projects/ConvertTemp/ConvertTemp/bin/Debug/ConvertTemp.exe
+/home/lux/Projects/ConvertTemp/ConvertTemp/bin/Debug/ConvertTemp.pdb
+/home/lux/Projects/ConvertTemp/ConvertTemp/obj/x86/Debug/ConvertTemp.csproj.CoreCompileInputs.cache
+/home/lux/Projects/ConvertTemp/ConvertTemp/obj/x86/Debug/ConvertTemp.exe
+/home/lux/Projects/ConvertTemp/ConvertTemp/obj/x86/Debug/ConvertTemp.pdb
